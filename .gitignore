@@ -1,0 +1,8 @@
+# ignoring site folder since it can be generated
+_site/
+
+Gemfile
+Gemfile.lock
+
+.DS_Store
+.jekyll-cache/
