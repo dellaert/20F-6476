@@ -20,45 +20,25 @@ No prior experience with computer vision is assumed, although previous knowledge
 * Math: Linear algebra, vector calculus, and probability. Linear algebra is the most important and students who have not taken a linear algebra course have struggled in the past.
 
 ### Grading
-This project is heavily project-based, but there will be a midterm and final, each covering about half of the material. The grading distribution is:
-
-| Component     | Nr. | Grade | Total |
-|---------------|-----|-------|-------|
-| Projects      | 6   | 12.5% |  75%  |
-| Midterm       |     | 10%   |  10%  |
-| Final         |     | 10%   |  10%  |
-| Participation |     | 5%    |  5%   |
-|---------------|-----|-------|-------|
-|               |     |       | 100%  |
-
-Late policy for this course will be 20% per day late, as discussed on the first day of class and clarified on [Piazza](https://piazza.com/class/jzehgqjjgpz6bb?cid=13).
+This project is heavily project-based, but there will be a midterm and final, each covering about half of the material. **The grading distribution is still under review** but will be discussed at the first day of class.
 
 ### Academic Integrity
-Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu. For quizzes, no supporting materials are allowed (notes, calculators, phones, etc).
+Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu.
 
 You are expected to implement the core components of each project on your own, but the extra credit opportunties often build on third party data sets or code. That's fine. Feel free to include results built on other software, as long as you are clear in your handin that it is not your own work.
 
 You should not view or edit anyone else's code. You should not post code to Piazza, except for starter code / helper code that isn't related to the core project.
 
-### Learning Accommodations
-If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the ADAPTS office (www.adapts.gatech.edu).
-
 ### Important Links:
-* [Piazza](https://piazza.com/class/jzehgqjjgpz6bb). This should be your first stop for questions and announcements.
+* [Piazza](https://piazza.com/class/kd98lybcja45yt). This should be your first stop for questions and announcements.
 * [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
-* Cusuh Ham	cusuh@gatech.edu
-* Ayush Baid abaid@gatech.edu
-* Jacob Knaup	jknaup3@gatech.edu
-* Julia Chen	julia.c@gatech.edu
-* John Lambert	johnlambert@gatech.edu
-* Jon Balloch	balloch@gatech.edu
-* Patsorn Sangkloy	patsorn_sangkloy@gatech.edu
-* Shenhao Jiang	jiangshenhao@gatech.edu
-* Stefan Stojanov	sstojanov@gatech.edu
-* Vijay Upadhya	vupadhya6@gatech.edu
+* Sergio Aguilera | sfaguile@gatech.edu
+* Sen Wang | sen.wang@gatech.edu
+* Arvindkumar Krishnakumar | akrishna@gatech.edu
+* Ayush Baid | abaid@gatech.edu
 
 ### Acknowledgements
-The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem and Svetlana Lazebnik. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
+The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem, Svetlana Lazebnik, and Judy Hoffmann. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
