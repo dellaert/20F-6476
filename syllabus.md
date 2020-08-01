@@ -35,10 +35,11 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
-* Sergio Aguilera | sfaguile@gatech.edu
-* Sen Wang | sen.wang@gatech.edu
-* Arvindkumar Krishnakumar | akrishna@gatech.edu
-* Ayush Baid | abaid@gatech.edu
+
+Sergio Aguilera | sfaguile@gatech.edu
+Sen Wang | sen.wang@gatech.edu
+Arvindkumar Krishnakumar | akrishna@gatech.edu
+Ayush Baid | abaid@gatech.edu
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem, Svetlana Lazebnik, and Judy Hoffmann. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
