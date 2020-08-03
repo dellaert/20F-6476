@@ -20,7 +20,15 @@ No prior experience with computer vision is assumed, although previous knowledge
 * Math: Linear algebra, vector calculus, and probability. Linear algebra is the most important and students who have not taken a linear algebra course have struggled in the past.
 
 ### Grading
-This project is heavily project-based, but there will be graded quizzes administered through canvas. **The grading distribution is still under review** but will be discussed at the first day of class.
+This project is heavily project-based, but there will be graded quizzes administered through canvas. The grading distribution is:
+
+| Component     | Nr. | Grade | Total |
+|---------------|-----|-------|-------|
+| Project 0     |     | 1%    |  1%   |
+| Projects      |  5  | 15%   |  75%  |
+| Quizzes       |  6  | 4%    |  24%  |
+|---------------|-----|-------|-------|
+|               |     |       | 100%  |
 
 ### Academic Integrity
 Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu.
@@ -37,7 +45,7 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
 
 Sergio Aguilera | sfaguile@gatech.edu
-Sen Wang | sen.wang@gatech.edu
+Sen Wang | swang736@gatech.edu
 Arvindkumar Krishnakumar | akrishna@gatech.edu
 Ayush Baid | abaid@gatech.edu
 
