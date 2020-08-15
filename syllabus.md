@@ -75,7 +75,7 @@ The materials from this class rely significantly on slides prepared by other ins
 <p>If you have not tested positive but are ill or have been exposed to someone who is ill, please follow the <a href="http://health.gatech.edu/coronavirus/decision-tree">Covid-19 Exposure Decision Tree</a> for reporting your illness.</p>
 <p>During the quarantine or isolation period you may feel completely well, ill but able to work as usual, or too ill to work until you recover.</p>
 
-</em>Unless you are too ill to work, you should be able to complete your remote work while in quarantine or isolation.</p>
+<p>Unless you are too ill to work, you should be able to complete your remote work while in quarantine or isolation.</p>
 
 <p>If you are ill and unable to do course work this will be treated similarly to any student illness. The Dean of Students will have been contacted when you report your positive test or are told that it is necessary to quarantine and will notify your instructor that you may be unable to attend class events or finish your work as the result of a health issue. Your instructor will not be told the reason. We have asked all faculty to be lenient and understanding when setting work deadlines or expecting students to finish work, and so you should be able to catch up with any work that you miss while in quarantine or isolation. Your instructor may make available any video recordings of classes or slides that have been used while you are absent, and may prepare some complementary asynchronous assignments that compensate for your inability to participate in class sessions. Ask your instructor for the details.</p>
 
