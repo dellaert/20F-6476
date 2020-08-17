@@ -41,7 +41,7 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 
 ### Important Links:
 * [Piazza](https://piazza.com/class/kd98lybcja45yt). This should be your first stop for questions and announcements.
-* [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
+* [Gradescope](https://www.gradescope.com/) will be used to hand in assignments.
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
