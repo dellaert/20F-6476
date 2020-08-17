@@ -41,7 +41,7 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 
 ### Important Links:
 * [Piazza](https://piazza.com/class/kd98lybcja45yt). This should be your first stop for questions and announcements.
-* [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
+* [GradeScope](https://www.gradescope.com/) will be used to hand in assignments.
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
@@ -89,7 +89,7 @@ The materials from this class rely significantly on slides prepared by other ins
 <p>&nbsp;If you have been approved by ODS for an accommodation, I will work closely with you to understand your needs and make a good faith effort to investigate whether or not requested accommodations are possible for this course. If the accommodation request results in a fundamental alteration of the stated learning outcome of this course, ODS, academic advisors, and the school offering the course will work with you to find a suitable alternative that as far as possible preserves your progress toward graduation.</p>
 
 <h3>Course Homeworks/Assignments/Papers</h3>
-<p>All course assignments will be submitted electronically via Canvas. </p>
+<p>All course assignments will be submitted electronically via GradeScope. </p>
 
 <h3>Course Attendance Structure:</h3>
 <p>Class sessions for CS 6476 will take place remote but synchronously. You are encouraged to attend class duting the assigned class times (Monday and Wednesday, 5pm-6.15pm) and re-review the video snippets when they become available.</p>
