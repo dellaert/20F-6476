@@ -2,7 +2,7 @@
 1,Aug,17,Mon,Logistics,S01-Logistics,-,Pytorch,,,,,
 1,Aug,19,Wed,Introduction to CV,S02-Introduction,-,,,,,,
 2,Aug,24,Mon,Geometric Image formation,S03-Geometry,-,,,,,#,Percentage
-2,Aug,26,Wed,Photometric Image formation,-,-,,,,Project0,1,1
+2,Aug,26,Wed,Photometric Image formation,S04-Photometry,-,,,,Project0,1,1
 3,Aug,31,Mon,Image processing,-,-,,,,Projects,5,15
 3,Sep,2,Wed,CNNs and Pytorch,-,-,Image Filtering and Hybrid images,Quiz 1,,Quizzes,6,4
 4,Sep,7,Mon,"No classes, Labor Day",-,-,,,,,,100
