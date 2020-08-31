@@ -2,29 +2,29 @@
 1,Aug,17,Mon,Logistics,S01-Logistics,-,Pytorch,,,,,
 1,Aug,19,Wed,Introduction to CV,S02-Introduction,-,,,,,,
 2,Aug,24,Mon,Geometric Image formation,S03-Geometry,-,,,,,#,Percentage
-2,Aug,26,Wed,Photometric Image formation,S04-Photometry,-,,,,Project0,1,1
-3,Aug,31,Mon,Image processing,-,-,,,,Projects,5,15
-3,Sep,2,Wed,CNNs and Pytorch,-,-,Image Filtering and Hybrid images,Quiz 1,,Quizzes,6,4
+2,Aug,26,Wed,Geometric Image formation,-,-,,,,Project0,1,1
+3,Aug,31,Mon,Photometric Image formation,S04-Photometry,-,,,,Projects,5,15
+3,Sep,2,Wed,Image processing,-,-,Image Filtering and Hybrid images,,,Quizzes,6,4
 4,Sep,7,Mon,"No classes, Labor Day",-,-,,,,,,100
-4,Sep,9,Wed,Deep Learning,-,-,,,,,,
+4,Sep,9,Wed,Deep Learning,-,-,,Quiz 1,,,,
 5,Sep,14,Mon,Deep Learning,-,-,,,,,,
-5,Sep,16,Wed,Deep Learning,-,-,,,,,,
-6,Sep,21,Mon,Recognition,-,-,Scene Recognition with Deep Learning,Quiz 2,,,,
-6,Sep,23,Wed,Recognition,-,-,,,,,,
+5,Sep,16,Wed,CNNs and Pytorch,-,-,Scene Recognition with Deep Learning,,,,,
+6,Sep,21,Mon,Recognition,-,-,,,,,,
+6,Sep,23,Wed,Recognition,-,-,,Quiz 2,,,,
 7,Sep,28,Mon,Recognition,-,-,,,,,,
-7,Sep,30,Wed,Feature Detection and Matching,-,-,,,,,,
+7,Sep,30,Wed,Feature Detection and Matching,-,-,Project 2 Intermediate Deadline,,,,,
 8,Oct,5,Mon,Feature Detection and Matching,-,-,,,,,,
-8,Oct,7,Wed,Feature Detection and Matching,-,-,Local Feature Matching,Quiz 3,,,,
+8,Oct,7,Wed,Feature Detection and Matching,-,-,,Quiz 3,,,,
 9,Oct,12,Mon,Image Alignment and Stitching,-,-,,,,,,
-9,Oct,14,Wed,Image Alignment and Stitching,-,-,,,,,,
+9,Oct,14,Wed,Image Alignment and Stitching,-,-,Local Feature Matching,,,,,
 10,Oct,19,Mon,Motion Estimation,-,-,,,,,,
-10,Oct,21,Wed,Motion Estimation,-,-,,,,,,
-11,Oct,26,Mon,Structure from motion & SLAM,-,-,Camera Projection Matrix and F Estimation,Quiz 4,,,,
-11,Oct,28,Wed,Structure from motion & SLAM,-,-,,,,,,
+10,Oct,21,Wed,Motion Estimation,-,-,,Quiz 4,,,,
+11,Oct,26,Mon,Structure from motion & SLAM,-,-,,,,,,
+11,Oct,28,Wed,Structure from motion & SLAM,-,-,Camera Projection Matrix and F Estimation,,,,,
 12,Nov,2,Mon,Structure from motion & SLAM,-,-,,,,,,
-12,Nov,4,Wed,Depth Estimation,-,-,,,,,,
+12,Nov,4,Wed,Depth Estimation,-,-,,Quiz 5,,,,
 13,Nov,9,Mon,Depth Estimation,-,-,,,,,,
-13,Nov,11,Wed,Depth Estimation,-,-,Depth Estimation using Stereo,Quiz 5,,,,
+13,Nov,11,Wed,Depth Estimation,-,-,Depth Estimation using Stereo,,,,,
 14,Nov,16,Mon,3D Reconstruction,-,-,,,,,,
 14,Nov,18,Wed,3D Reconstruction,-,-,,,,,,
 15,Nov,23,Mon,3D Reconstruction,-,-,,,,,,
