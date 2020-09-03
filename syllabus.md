@@ -50,6 +50,9 @@ Sergio Aguilera | sfaguile@gatech.edu
 Sen Wang | swang736@gatech.edu
 Arvindkumar Krishnakumar | akrishna@gatech.edu
 Ayush Baid | abaid@gatech.edu
+Vijay Upadhya | vijay.upadhya7@gmail.com
+Jing Wu | jingwu@gatech.edu
+Haoxin Ma | haoxin.m@gatech.edu
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem, Svetlana Lazebnik, and Judy Hoffmann. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
