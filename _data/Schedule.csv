@@ -6,7 +6,7 @@
 3,Aug,31,Mon,Photometric Image formation,S04-Photometry,-,,,,Projects,5,15
 3,Sep,2,Wed,Image processing,S05-Image-Processing,-,Image Filtering and Hybrid images,,,Quizzes,6,4
 4,Sep,7,Mon,"No classes, Labor Day",-,-,,,,,,100
-4,Sep,9,Wed,Deep Learning,-,-,,Quiz 1,,,,
+4,Sep,9,Wed,Deep Learning,S06-Deep-Learning,-,,Quiz 1,,,,
 5,Sep,14,Mon,Deep Learning,-,-,,,,,,
 5,Sep,16,Wed,CNNs and Pytorch,-,-,Scene Recognition with Deep Learning,,,,,
 6,Sep,21,Mon,Recognition,-,-,,,,,,
