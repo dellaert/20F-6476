@@ -18,7 +18,7 @@
 9,Oct,12,Mon,"Harris Corner Detector, in Detail",-,-,,,,,,
 9,Oct,14,Wed,Descriptors and Matching,S11-Descriptors-Matching,-,Local Feature Matching,,,,,
 10,Oct,19,Mon,Image Alignment and Stitching,S12-Alignment,-,,,,,,
-10,Oct,21,Wed,Motion Estimation,-,-,,Quiz 4,,,,
+10,Oct,21,Wed,Motion Estimation,S13-SFM,-,,Quiz 4,,,,
 11,Oct,26,Mon,Motion Estimation,-,-,,,,,,
 11,Oct,28,Wed,Structure from motion & SLAM,-,-,Camera Projection Matrix and F Estimation,,,,,
 12,Nov,2,Mon,Structure from motion & SLAM,-,-,,,,,,
