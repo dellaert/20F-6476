@@ -7,6 +7,5 @@ title: Resources
 * [Szeliski book](http://szeliski.org/Book/)
 * [Python](https://www.python.org/)
 * [Pytorch](https://pytorch.org/)
+* [Coordinate Transformations](./Resources/CoordinateTransforms.pdf)
 
-[//]: # * [Visualizing CNN weights](./resources/visualizingCNNs.pdf)
-[//]: # * [Receptive field examples](./resources/receptiveField.pdf)
